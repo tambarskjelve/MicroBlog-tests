@@ -1,1 +1,1 @@
-# MicroBlog-tests
+# MicroBlog-tests## Installation```Metacello new	repository: 'github://tambarskjelve/MicroBlog-tests:main/src';	baseline: 'MicroBlogTests';	load```
